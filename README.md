@@ -5,8 +5,8 @@
 * jquery
 
 # Bot working on following Queries
- * ["hi","hey","hello"]
- * ["how are you", "how is life", "how are things"]
+	* ["hi","hey","hello"]
+ 	* ["how are you", "how is life", "how are things"]
 	* ["what are you doing", "what is going on"]
 	* ["how old are you"]
 	* ["who are you", "are you human", "are you bot", "are you human or bot"],
