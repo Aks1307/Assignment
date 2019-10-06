@@ -1,0 +1,55 @@
+* {
+    font-family: sans-serif;
+    font-size: 20pt;
+  }
+  
+  .chat {
+    width: 95%;
+    height: 70%;
+    position: fixed;
+    /* overflow: scroll; */
+    
+  }
+  
+  .actions {
+      height: 30%;
+    position: fixed;
+    bottom: 0;
+    display: block;
+    width: 95%;
+  }
+  
+  .actions input{
+    height: 100px;
+    display: block;
+    width: 100%;
+    outline: 0;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+   background:wheat;
+  }
+  
+  #messages  {
+    max-width: 60%;
+    display: block;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 7px;
+    text-align: left;
+    margin-right: auto;
+    background: lightcoral;
+  }
+  
+  
+  
+  #edge{
+    max-width: 60%;
+    display: block;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 7px;
+    text-align: right;
+    margin-left: auto;
+    background: #DDD
+  }
