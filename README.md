@@ -21,6 +21,6 @@
 
 # Build and Usage
 * 1)Install dependencies (npm install).
-* 2) Run **node app.js** in terminal.
+* 2)Run **node app.js** in terminal.
 * 3)A simple Javascript chat bot is on landing page .
 * 4)Open Multiple windows with this url **(http://localhost:3000)** for human interaction.
